@@ -1,0 +1,2 @@
+# airbnb_listing_scraper
+ This Python script uses the Selenium library to scrape data from Airbnb for a specific location and date range. It retrieves the name and price of the first listing and sends a text message containing these details using the Twilio library. The script is designed to be run on a periodic basis to keep the user updated on the latest Airbnb listings for their desired location and date range.
