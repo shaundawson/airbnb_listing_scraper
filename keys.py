@@ -1,11 +1,11 @@
 CHROME_DRIVER_PATH="/Users/shaundawson/Documents/Development/chromedriver"
 CHROME_PROFILE_PATH="/Users/shaundawson/Library/Application Support/Google/Chrome Beta/Default"
 CHROME_BINARY_LOC = "/Applications/Google Chrome Beta.app/Contents/MacOS/Google Chrome Beta"
-EMAIL = "shaundawson0883@gmail.com"
-PASSWORD = "PA$$word2562"
+EMAIL = "XXXXXXX@gmail.com"
+PASSWORD = "XXXXXXXX"
 
 FB_EMAIL = 'shaundawson0883@gmail.com'
-FB_PW = 'ZHpe*4bwJkS1'
+FB_PW = 'XXXXXXXXX'
 
 # The Airbnb URL to scrape
 url = ''
